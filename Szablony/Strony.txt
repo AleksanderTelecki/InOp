@@ -1,0 +1,3 @@
+Struktura specyfikacji wymagań (szablon) - w4s8
+Struktura use case'u (szablon) - w4s12
+ Plan projektu (szablon) laba plan projektu
